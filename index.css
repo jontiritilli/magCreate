@@ -103,7 +103,7 @@ nav ul li > ul {
   color: #fff;
 	top: 62px;
 }
-nav ul li:hover > ul {
+nav ul li.active > ul {
   display: flex;
   flex-direction: column;
 }
